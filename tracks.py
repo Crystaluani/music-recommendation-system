@@ -66,4 +66,3 @@ if st.button('Show Recommendation'):
     with col5:
         st.text(recommended_music_names[4])
         st.image(recommended_music_posters[4])
-
